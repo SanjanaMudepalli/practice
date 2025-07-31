@@ -2,6 +2,8 @@
     background-image: url("https://i.natgeofe.com/n/7e33fdf8-c549-4cc6-99c2-a66bf6cad079/GettyImages-1778646120.jpg");
     height:30vh;
     background-size: cover;
+    background-image: center;
+    background-repeat: no-repeat;
 }
 .button{
     border-radius: 5px;
@@ -15,7 +17,7 @@
 .bottom-section{
     background-color: #e6f6ff;
     display:flex;
-    height:70vh;
+    height:100vh;
 }
 .image{
     height:70px;
